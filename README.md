@@ -20,7 +20,7 @@ import sagebow
 sagebow.run()
 
 # Gain access
-Finally, enter your API token from sagebow.com to gain access to the computation needed to run the AI Agents
+Finally, enter your API token from sagebow.com to gain access to the computation needed to run the AI Agents. Get it at https://sagebow.com/ 
 <img width="744" height="72" alt="Screenshot From 2025-12-31 15-18-42" src="https://github.com/user-attachments/assets/8f325fb3-ca78-49a0-ac39-a9bfc6e154af" />
 
 
